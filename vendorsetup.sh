@@ -1,4 +1,5 @@
 # CAF
+add_lunch_combo pa_addison-userdebug
 add_lunch_combo pa_bacon-userdebug
 add_lunch_combo pa_gemini-userdebug
 add_lunch_combo pa_oneplus2-userdebug
